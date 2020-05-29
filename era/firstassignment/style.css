@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #FFDAB9;
+    background-color: #DCDCDC;
 }
 
 h1 {
@@ -14,7 +14,7 @@ h1 {
 
 section {
     border: 1px solid black;
-    background-color: #F0E68C;
+    background-color: #808080;
     margin: 10px;
     overflow: auto;
     height: 160px;
@@ -36,16 +36,16 @@ section>h2 {
     
 }
 
-section.chicken>h2 {
-    background-color: #00FF7F;
+section.butterChicken>h2 {
+    background-color: #B22222;
 }
 
-section.beef>h2 {
-    background-color: #DA70D6;
+section.pizza>h2 {
+    background-color: #CD5C5C;
     }
 
-section.sushi>h2 {
-    background-color: #D8BFD8;
+section.burger>h2 {
+    background-color: #A52A2A;
 }
 
 section>p {
